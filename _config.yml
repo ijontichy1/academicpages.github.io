@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oded Zrachia / Digital History"
+title                    : "Oded Zrachia"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
