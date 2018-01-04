@@ -10,9 +10,9 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Teaching Assistant
+Digital History: What? Why? How? (2017)  
 ======
-The Department of History, Tel-Aviv University, Israel
+Teaching Assistant, The Department of History, Tel-Aviv University, Israel
 
 
 Teaching Assistant
