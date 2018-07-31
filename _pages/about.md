@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<p dir="rtl">אוריינות דיגיטלית"</p>
+title: "אוריינות דיגיטלית"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
