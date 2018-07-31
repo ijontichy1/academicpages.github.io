@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<DIV dir="RTL">
 בדו"ח שפרסם איגוד הספריות האמריקאי (ALA) בשנת 2013 מוגדרת אוריינות דיגיטלית כ"יכולת להשתמש בטכנולוגיות מידע ותקשורת על מנת לאתר, להבין, להעריך, ליצור ולתקשר מידע דיגיטלי, יכולת אשר דורשת הן כישורים טכניים והן כישורים קוגניטיביים". מהפכת המידע של העשורים האחרונים הפכה את הסביבה הדיגיטלית לאינהרנטית לעולם, ורבים מהבאים בשערי האוניברסיטה מקבלים אותה כמובנת מאליה מבלי לתהות על אופייה. הדבר מוביל בהכרח לעמעום כישורי החשיבה הביקורתית בכל הנוגע למידע שמקורו בסביבה הדיגיטלית, ופוגם ביכולת האינדיבידואלית לקבל החלטות מושכלות על סמך מידע זה. לדידה של חוקרת התקשורת רנה הובס (Hobbs), כישורי חשיבה ביקורתית בכל הנוגע לתקשורת המונים, תרבות פופולרית או מדיה דיגיטלית אינם מושגים באמצעות שימוש בטכנולוגיה עצמה; במקום לראות את הסביבה הדיגיטלית כמקור מידע ניטרלי, על התלמידים לתהות על אודות המקורות לאותו מידע, האינטרסים של מחבריו ומפיציו ובאיזה אופן הוא מייצג את המציאות. 
-
+</DIV>
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
