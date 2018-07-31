@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Oded Zrachia"
+locale                   : "he_IL"
+title                    : "אוריינות דיגיטלית למדעי הרוח"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
