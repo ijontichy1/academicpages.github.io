@@ -12,7 +12,7 @@ redirect_from:
 
 <DIV dir="RTL">
 <h5> Digital literacy, libraries, and public policy: Report of the Office for Information Technology Policy's Digital Literacy Task Force. Washington, DC: American Library Association Office for Information Technology Policy. Available at: https://districtdispatch.org/wp-content/uploads/2013/01/2012_OITP_digilitreport_1_22_13.pdf
-
+  <br></br>
 Renee Hobbs. "Digital and Media Literacy: A Plan of Action" The Aspen Institute (2010) Available at: http://works.bepress.com/reneehobbs/13/
 </h5>
 </div>
