@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "שיעורים"
+title: "שערים למידע"
 permalink: /publications/
 author_profile: true
 ---
