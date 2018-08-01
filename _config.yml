@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "he_IL"
-title                    : "אוריינות דיגיטלית למדעי הרוח"
+title                    : "אוריינות דיגיטלית"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
