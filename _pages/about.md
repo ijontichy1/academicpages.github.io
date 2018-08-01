@@ -10,15 +10,20 @@ redirect_from:
 
 בדוח שפרסם איגוד הספריות האמריקאי (ALA: **A**merican **L**ibrary **A**ssosication) בשנת 2013 מוגדרת אוריינות דיגיטלית כ"יכולת להשתמש בטכנולוגיות מידע ותקשורת על מנת לאתר, להבין, להעריך, ליצור ולהעביר מידע דיגיטלי, יכולת אשר דורשת הן כישורים טכניים והן כישורים קוגניטיביים". מהפכת המידע של העשורים האחרונים הפכה את הסביבה הדיגיטלית לאינהרנטית לעולם, ורבים מהבאים בשערי האוניברסיטה מקבלים אותה כמובנת מאליה. לעתים, הדבר מוביל לעמעום כישורי החשיבה הביקורתית בכל הנוגע למידע שמקורו בסביבה הדיגיטלית, ופוגם ביכולת האינדיבידואלית לקבל החלטות מושכלות על סמך מידע זה. לדידה של חוקרת התקשורת רנה הובס (Hobbs), כישורי חשיבה ביקורתית בכל הנוגע לתקשורת המונים, תרבות פופולרית או מדיה דיגיטלית אינם מושגים באמצעות שימוש בטכנולוגיה עצמה. במקום לראות את הסביבה הדיגיטלית כמקור מידע ניטרלי, על התלמידים לתהות על אודות המקורות לאותו מידע, האינטרסים של מחבריו ומפיציו ובאיזה אופן הוא מייצג את המציאות. 
 
-<DIV dir="RTL">
-<h5> Digital literacy, libraries, and public policy: Report of the Office for Information Technology Policy's Digital Literacy Task Force. Washington, DC: American Library Association Office for Information Technology Policy. Available at: https://districtdispatch.org/wp-content/uploads/2013/01/2012_OITP_digilitreport_1_22_13.pdf
-<br></br>
-Renee Hobbs. "Digital and Media Literacy: A Plan of Action" The Aspen Institute (2010) Available at: http://works.bepress.com/reneehobbs/13/
-</h5>
-</div>
+##### Digital literacy, libraries, and public policy: Report of the Office for Information Technology Policy's Digital Literacy Task Force. Washington, DC: American Library Association Office for Information Technology Policy. Available at: https://districtdispatch.org/wp-content/uploads/2013/01/2012_OITP_digilitreport_1_22_13.pdf
+
+##### Renee Hobbs. "Digital and Media Literacy: A Plan of Action" The Aspen Institute (2010) Available at: http://works.bepress.com/reneehobbs/13/
 
 אוריינות דיגיטלית למדעי הרוח
 ======
 עבור תלמידי מדעי הרוח מייצגת מהפכת המידע, בראש ובראשונה, נגישות חסרת תקדים למקורות היסטוריים, הן טקסטואליים והן ויזואליים. שנית, כלים דיגיטליים שונים מאפשרים מחקר ולימוד באופנים ובהיקפים שלא היו זמינים בעבר, כגון מחקר מרחבי/גיאוגרפי, מחקר לקסיקלי וכדומה. אולם כדי לנצל ביעילות את השפע חסר התקדים שמציעה מהפכת המידע אין די בשימוש בכלים, אשר מתפתחים ומשתנים תכופות. על האוניברסיטה לספק לתלמידים את הכישורים המתאימים להערכה ושיפוט עצמאיים של כלים ומקורות דיגיטליים, על שלל יתרונותיהם וחסרונותיהם. רק באופן זה יוכלו תלמידים לבחור באופן מושכל את הכלים המתאימים ביותר למחקר ולהעריך את טיבם של מקורות דיגיטליים שונים.
 
+מטרות
+======
+הקניית הכישורים הנדרשים עבור איתור, הבנה, הערכה, יצירה ופרסום של מידע דיגיטלי ומקורות היסטוריים, טקסטואליים וויזואליים בתצורות שונות, עם דגש על שליפת מידע באופן יעיל ומהיר, פירוש תוצאות חיפוש והערכת טיבו של המידע המתקבל. 
 
+חובות
+======
+- נוכחות מלאה (בהתאם לתקנון האוניברסיטה), קריאה שוטפת והשתתפות פעילה.
+- הגשת שש מטלות שיחולקו לאורך הסמסטר.
+- הגשת שש מטלות שיחולקו לאורך הסמסטר.
