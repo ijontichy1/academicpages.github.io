@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oded Zrachia"
+  #name             : "Oded Zrachia"
   avatar           : "test.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Israel"
